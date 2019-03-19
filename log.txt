@@ -1,0 +1,29 @@
+[33mcommit abbec1e686a22398a85e6e6ebeeb7bada55a884b[m[33m ([m[1;36mHEAD -> [m[1;32mnewname[m[33m, [m[1;31morigin/newname[m[33m)[m
+Author: kiverchuk <32567219+kiverchuk@users.noreply.github.com>
+Date:   Wed Mar 20 00:16:18 2019 +0200
+
+    am modificat 4. se va adauga iar?
+
+[33mcommit ed0cfba85c6c8fcacc6d38c093e20da4322a1bb6[m
+Author: kiverchuk <32567219+kiverchuk@users.noreply.github.com>
+Date:   Wed Mar 20 00:15:35 2019 +0200
+
+    iar sterg 4
+
+[33mcommit 4f8da07b2041d9e19a39f012b7fc4cbcf37d45fa[m
+Author: kiverchuk <32567219+kiverchuk@users.noreply.github.com>
+Date:   Wed Mar 20 00:12:48 2019 +0200
+
+    4 modificat
+
+[33mcommit c4b43a2f84b74196d7ac3dda0b47d84c5a70f8b3[m
+Author: kiverchuk <32567219+kiverchuk@users.noreply.github.com>
+Date:   Wed Mar 20 00:12:00 2019 +0200
+
+    revove 4
+
+[33mcommit f6f4b0cc1a99c081db1defbf8769d4b302e32771[m
+Author: kiverchuk <32567219+kiverchuk@users.noreply.github.com>
+Date:   Wed Mar 20 00:10:14 2019 +0200
+
+    5
